@@ -2,15 +2,11 @@
 
 A text adventure game written in Python 3.3
 
-I think it has potential to be a great comedy/cyberpunk story, but I'm not a great writer. 
-So feel free to help!
-I wanted a story that had similar cheese to the Norton Fighter, but without sticking to the Norton brand.
+I think it has potential to be a great comedy/cyberpunk story, but I'm not a great writer. So feel free to help! I wanted a story that had similar cheese to the Norton Fighter, but without sticking to the Norton brand.
 
 Summary:
 
-You are an antivirus instance (fighter) with a giant hammer. You spawned in a virtual machine and are
-on a mission to work through an office building (which is a metaphorical computer system) that has been
-invaded by viruses. Kill the viruses and collect the security code in order to exit the area. 
+You are an antivirus instance (fighter) with a giant hammer. You spawned in a virtual machine and are on a mission to work through an office building (which is a metaphorical computer system) that has been invaded by viruses. Kill the viruses and collect the security code in order to exit the area. 
 
 ---
 
